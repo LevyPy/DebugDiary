@@ -1,0 +1,6 @@
+{
+  "folder": "Daily_logs",
+  "autorun": false,
+  "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
+  "template": "Extras/Templates/Template, Daily Note"
+}
